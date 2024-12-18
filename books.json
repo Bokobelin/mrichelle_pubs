@@ -44,8 +44,15 @@
         {
             "title": "La Bible et l'archéologie.",
             "authors": ["Matthieu Richelle"],
-            "date": "2017",
+            "date": "2012",
             "link": "https://www.academia.edu/1568911/La_Bible_et_larch%C3%A9ologie",
             "image": "https://raw.github.com/Bokobelin/mrichelle_pubs/main/book_images/lbela.png?raw=true"
-      }
+      },
+      {
+          "title": "Interpreting Israel’s Scriptures: A Practical Guide to the Exegesis of the Hebrew Bible / Old Testament (Peabody, Mass.: Hendrickson, 2022)",
+          "authors": ["Matthieu Richelle"],
+          "date": "2022",
+          "link": "https://books.google.be/books?id=ihTBEAAAQBAJ&printsec=frontcover&hl=fr#v=onepage&q&f=false",
+          "image": "https://raw.github.com/Bokobelin/mrichelle_pubs/main/book_images/iis.png?raw=true"
+    }
   ]
