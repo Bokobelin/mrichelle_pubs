@@ -26,5 +26,12 @@
           "date": "2024",
           "link": "https://www.degruyter.com/document/doi/10.1515/9783111296586/html#contents",
           "image": "https://raw.github.com/Bokobelin/mrichelle_pubs/main/book_images/dwsni.png?raw=true"
-        }
+        },
+        {
+            "title": "The Bible and Archaeology (Peabody, MA: Hendrickson, 2018)",
+            "authors": ["Matthieu Richelle"],
+            "date": "2018",
+            "link": "https://books.google.be/books?id=qivFEAAAQBAJ&printsec=frontcover&hl=fr#v=onepage&q&f=false",
+            "image": "https://raw.github.com/Bokobelin/mrichelle_pubs/main/book_images/tb&a.png?raw=true"
+          }
   ]
