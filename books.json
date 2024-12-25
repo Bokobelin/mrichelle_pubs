@@ -63,27 +63,27 @@
         "pdf": ""
       },
       {
-          "title": "Interpreting Israel’s Scriptures: A Practical Guide to the Exegesis of the Hebrew Bible / Old Testament (Peabody, Mass.: Hendrickson, 2022)",
+          "title": "Interpreting Israel’s Scriptures: A Practical Guide to the Exegesis of the Hebrew Bible / Old Testament",
           "authors": ["Matthieu Richelle"],
-          "date": "2022",
+          "date": "Peabody, MA: Hendrickson, 2022",
           "link": "https://books.google.be/books?id=ihTBEAAAQBAJ&printsec=frontcover&hl=fr#v=onepage&q&f=false",
           "image": "https://raw.github.com/Bokobelin/mrichelle_pubs/main/book_images/iis.png?raw=true",
         "preview": "https://files.tyndale.com/thpdata/firstChapters/978-1-61970-958-4.pdf",
         "pdf": ""
     },
     {
-        "title": "Guide pour l'exégèse de l'Ancien Testament: Méthodes, exemples et instruments de travail (Vaux-sur-Seine/Charols, Edifac/Excelsis, 2012), 360 p.",
+        "title": "Guide pour l'exégèse de l'Ancien Testament: Méthodes, exemples et instruments de travail",
         "authors": ["Matthieu Richelle"],
-        "date": "2012",
+        "date": "Vaux-sur-Seine/Charols, Edifac/Excelsis, 2012",
         "link": "https://www.amazon.fr/lex%C3%A9g%C3%A8se-Testament-M%C3%A9thodes-exemples-instruments/dp/2755001755",
         "image": "https://raw.github.com/Bokobelin/mrichelle_pubs/main/book_images/gpledleat.png?raw=true",
         "preview": "",
         "pdf": ""
     },
     {
-        "title": "M. Richelle (ed.), Temples de la Bible (Louvain-la-Neuve: Presses universitaires de Louvain, 2022)",
+        "title": "Temples de la Bible",
         "authors": ["Matthieu Richelle"],
-        "date": "2022",
+        "date": "Louvain-la-Neuve: Presses universitaires de Louvain, 2022",
         "link": "https://pul.uclouvain.be/book/?gcoi=29303100993090",
         "image": "https://raw.github.com/Bokobelin/mrichelle_pubs/main/book_images/tdlb.png?raw=true",
         "preview": "",
@@ -99,10 +99,10 @@
         "pdf": ""
     },
     {
-        "title": "Le Testament d Elisée: Texte massorétique et Septante en 2 R 13,14-14,16 (Cahiers de la Revue Biblique 76; Pendé: Gabalda, 2010) (entire ms)",
+        "title": "Le Testament d Elisée: Texte massorétique et Septante en 2 R 13,14-14,16",
         "authors": ["Matthieu Richelle"],
-        "date": "2010",
-        "link": "https://www.academia.edu/44592249/Le_Testament_d_Elis%C3%A9e_Texte_massor%C3%A9tique_et_Septante_en_2_R_13_14_14_16_Cahiers_de_la_Revue_Biblique_76_Pend%C3%A9_Gabalda_2010_entire_ms_",
+        "date": "Pendé: Gabalda, 2010",
+        "link": "",
         "image": "https://raw.github.com/Bokobelin/mrichelle_pubs/main/book_images/ltde.png?raw=true",
         "preview": "",
         "pdf": "https://matthieurichelle.com/ltde.pdf"
