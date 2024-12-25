@@ -5,7 +5,7 @@
         "date": "New York: Oxford University Press, 2024",
         "link": "https://academic.oup.com/edited-volume/57516",
         "image": "https://raw.github.com/Bokobelin/mrichelle_pubs/main/book_images/ohok.png?raw=true",
-        "preview": "",
+        "preview": "https://www.google.be/books/edition/The_Oxford_Handbook_of_the_Books_of_King/-ZMJEQAAQBAJ?hl=fr&gbpv=1&pg=PP1&printsec=frontcover",
         "pdf": ""
     },
     {
@@ -14,7 +14,7 @@
         "date": "Genève: Labor et Fides, 2023",
         "link": "https://books.google.be/books?id=N0LSEAAAQBAJ&newbks=0&printsec=frontcover&pg=PT28&dq=matthieu+richelle+2+Rois+le+cycle+d%27élisée&hl=fr&source=newbks_fb&redir_esc=y#v=onepage&q&f=false Exegetical commentary: https://www.laboretfides.com/fr_fr/index.php/presentation/collection/commentaire-de-l-ancien-testament/2-rois-2-19-13-25.html",
         "image": "https://raw.github.com/Bokobelin/mrichelle_pubs/main/book_images/2r2.png?raw=true",
-        "preview": "",
+        "preview": "https://www.google.be/books/edition/2_Rois_2_19_13_25/N0LSEAAAQBAJ?hl=fr&gbpv=1&pg=PA1&printsec=frontcover",
         "pdf": ""
       },
       {
@@ -23,7 +23,7 @@
           "date": "Berlin: de Gruyter, 2024",
           "link": "https://www.degruyter.com/document/doi/10.1515/9783111296586/html#contents",
           "image": "https://raw.github.com/Bokobelin/mrichelle_pubs/main/book_images/dwsni.png?raw=true",
-        "preview": "",
+        "preview": "https://www.google.be/books/edition/Do_We_Still_Need_Inspiration/N8zbEAAAQBAJ?hl=fr&gbpv=1&pg=PA1992&printsec=frontcover",
         "pdf": ""
         },
         {
@@ -32,7 +32,7 @@
             "date": "Charols: Excelsis, 2024",
             "link": "https://www.xl6.com/articles/9782755005516-la-bible-et-l-archeologie-2e-edition-revisee-et-augmentee",
             "image": "https://raw.github.com/Bokobelin/mrichelle_pubs/main/book_images/La%20Bible%20et%20l'arch%C3%A9ologie%2C%202nde%20%C3%A9dition%20revue%20et%20augment%C3%A9e%20(Charols%20Excelsis%202024).png?raw=true",
-        "preview": "",
+        "preview": "https://www.xl6.com/articles/extraits-1/9782755005516.pdf",
         "pdf": ""
           },
         {
@@ -41,7 +41,7 @@
             "date": "Peabody, MA: Hendrickson, 2018",
             "link": "https://books.google.be/books?id=qivFEAAAQBAJ&printsec=frontcover&hl=fr#v=onepage&q&f=false",
             "image": "https://raw.github.com/Bokobelin/mrichelle_pubs/main/book_images/tb&a.png?raw=true",
-        "preview": "",
+        "preview": "https://www.google.be/books/edition/The_Bible_and_Archaeology/7MqJEAAAQBAJ?hl=fr&gbpv=1&pg=PP1&printsec=frontcover",
         "pdf": ""
           },
           {
@@ -68,7 +68,7 @@
           "date": "2022",
           "link": "https://books.google.be/books?id=ihTBEAAAQBAJ&printsec=frontcover&hl=fr#v=onepage&q&f=false",
           "image": "https://raw.github.com/Bokobelin/mrichelle_pubs/main/book_images/iis.png?raw=true",
-        "preview": "",
+        "preview": "https://files.tyndale.com/thpdata/firstChapters/978-1-61970-958-4.pdf",
         "pdf": ""
     },
     {
@@ -87,7 +87,7 @@
         "link": "https://pul.uclouvain.be/book/?gcoi=29303100993090",
         "image": "https://raw.github.com/Bokobelin/mrichelle_pubs/main/book_images/tdlb.png?raw=true",
         "preview": "",
-        "pdf": ""
+        "pdf": "https://pul.uclouvain.be/book/?gcoi=29303100993090"
     },
     {
         "title": "Comprendre Genèse 1-11 aujourd’hui",
