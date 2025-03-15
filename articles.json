@@ -21,12 +21,33 @@
       "link": "https://www.academia.edu/120971183/Rethinking_the_Origins_and_Textual_History_of_Ancient_Jewish_Literature_A_Review_of_Recent_Works_by_Emanuel_Tov_James_Nati_and_Nathan_Mastnjak_Vetus_Testamentum_74_2024_",
       "tags": ["textual criticism"]
     },
+     {
+      "title": "Cult Centralization in the Books of Kings",
+      "authors": ["Matthieu Richelle"],
+      "date": "in S.L. McKenzie and M. Richelle (eds.), The Oxford Handbook of the Books of Kings (New York: OUP, 2024), 311-325",
+      "link": "https://www.academia.edu/121677547/_Cult_Centralization_in_the_Books_of_Kings_in_S_L_McKenzie_and_M_Richelle_eds_The_Oxford_Handbook_of_the_Books_of_Kings_New_York_OUP_2024_311_325",
+      "tags": ["textual criticism", "Books of Kings", "history/archaeology"]
+    },
+     {
+      "title": "Ostraca II: Ancient Near East and Hebrew Bible / Old Testament",
+      "authors": ["Matthieu Richelle"],
+      "date": "EBR 22 (2024), cols. 868-871",
+      "link": "https://www.academia.edu/121676826/Ostraca_II_Ancient_Near_East_and_Hebrew_Bible_Old_Testament_in_EBR_22_2024_cols_868_871",
+      "tags": ["epigraphy"]
+    },
     {
       "title": "Athaliah Sentenced to Death: A Text-Critical Analysis of 2 Kings 11:15",
       "authors": ["Matthieu Richelle"],
       "date": "Revue Biblique 130 (2023): 356-377",
       "link": "https://dial.uclouvain.be/pr/boreal/fr/object/boreal%3A243565/datastream/PDF_01/view",
       "tags": ["textual criticism", "Books of Kings","exegesis"]
+    },
+    {
+      "title": "Textual Fluidity as a Challenge to Inspiration? A Biblical Scholar’s Point of View",
+      "authors": ["Matthieu Richelle"],
+      "date": "2023",
+      "link": "https://dial.uclouvain.be/pr/boreal/fr/object/boreal%3A266183/datastream/PDF_01/view",
+      "tags": ["textual criticism", "hermeneutics"]
     },
      {
       "title": "Scribal Punchlines: The Masoretic Divisions as Witnesses to the Narrative and Rhetorical Sensitivity of Scribes in the Books of Samuel",
@@ -43,11 +64,25 @@
       "tags": ["exegesis"]
     },
      {
+      "title": "Set in Stone? Another Look at the Mesha Stele",
+      "authors": ["Matthieu Richelle", "A. Burlingame"],
+      "date": "Biblical Archaeology Review 49/1 (2023): 54-57",
+      "link": "https://library.biblicalarchaeology.org/article/set-in-stone-another-look-at-the-mesha-stele/",
+      "tags": ["epigraphy"]
+    },
+     {
       "title": "Old and New Readings in the Samaria Ostraca",
       "authors": ["Matthieu Richelle"],
       "date": "BABELAO 10-11 (2022): 379-414",
       "link": "https://github.com/Bokobelin/mrichelle_pubs/blob/main/Samaria%20Ostraca%20(BABELAO).pdf",
        "tags": ["epigraphy"]
+    },
+    {
+      "title": "Literacy and scribalism in Ancient Israel (1200/1150 – 586 BCE)",
+      "authors": ["Matthieu Richelle"],
+      "date": "Ancient Israel World, ed. K. M. Keimer and G. Pierce (Routledge Worlds; London: Routledge, 2022), 335-347",
+      "link": "https://dial.uclouvain.be/pr/boreal/fr/object/boreal%3A265309/datastream/PDF_01/view",
+      "tags": ["epigraphy"]
     },
     {
       "title": "The Dead Sea Scrolls’ Paleo-Hebrew Script: Its Roots in Hebrew Scribal Tradition",
@@ -56,19 +91,19 @@
       "link": "http://www.paleohebrewdss.com/database/paper/",
        "tags": ["epigraphy"]
     },
-    {
-      "title": "Cult Centralization in the Books of Kings",
+     {
+      "title": "La centralisation du culte au regard des textes et de l’archéologie",
       "authors": ["Matthieu Richelle"],
-      "date": "in S.L. McKenzie and M. Richelle (eds.), The Oxford Handbook of the Books of Kings (New York: OUP, 2024), 311-325",
-      "link": "https://www.academia.edu/121677547/_Cult_Centralization_in_the_Books_of_Kings_in_S_L_McKenzie_and_M_Richelle_eds_The_Oxford_Handbook_of_the_Books_of_Kings_New_York_OUP_2024_311_325",
-      "tags": ["textual criticism", "Books of Kings", "history/archaeology"]
+      "date": "Temples de la Bible, ed. M. Richelle (Religio; Louvain-la-Neuve : PUL, 2022), 37-54",
+      "link": "https://dial.uclouvain.be/pr/boreal/fr/object/boreal%3A265313/datastream/PDF_01/view",
+      "tags": ["Books of Kings", "history/archaeology"]
     },
     {
-      "title": "Ostraca II: Ancient Near East and Hebrew Bible / Old Testament",
+      "title": "Was the Tower of Babel Really Left Unfinished? Genesis 11:6 in Light of Hebrew Syntax, the Septuagint, and Jewish Reception",
       "authors": ["Matthieu Richelle"],
-      "date": "EBR 22 (2024), cols. 868-871",
-      "link": "https://www.academia.edu/121676826/Ostraca_II_Ancient_Near_East_and_Hebrew_Bible_Old_Testament_in_EBR_22_2024_cols_868_871",
-      "tags": ["epigraphy"]
+      "date": "Semitica 63 (2021): 125-39",
+      "link": "https://dial.uclouvain.be/pr/boreal/fr/object/boreal%3A245106/datastream/PDF_01/view",
+      "tags": ["textual criticism","exegesis"]
     },
     {
       "title": "A Re-Examination of the Reading BT DWD (‘House of David’) on the Mesha Stele",
@@ -77,18 +112,25 @@
       "link": "https://dial.uclouvain.be/pr/boreal/fr/object/boreal%3A258864/datastream/PDF_01/view",
       "tags": ["epigraphy"]
     },
+     {
+      "title": "A Very Brief History of the Old Hebrew Script",
+      "authors": ["Matthieu Richelle"],
+      "date": "Biblical Archaeology Review 47/2 (2021): 48-55",
+      "link": "",
+      "tags": ["epigraphy"]
+    },
+     {
+      "title": "The Shapira Strips in Light of Paleography: Six Impossible Things Before Breakfast",
+      "authors": ["Matthieu Richelle"],
+      "date": "Semitica 63 (2021): 243-94",
+      "link": "https://dial.uclouvain.be/pr/boreal/fr/object/boreal%3A258858/datastream/PDF_01/view",
+      "tags": ["epigraphy"]
+    },
     {
       "title": "The Shapira Strips: The Case for Forgery",
       "authors": ["Ronald Hendel and Matthieu Richelle"],
       "date": "Biblical Archaeology Review 47/4 (2021): 41-48",
       "link": "https://dial.uclouvain.be/pr/boreal/fr/object/boreal%3A258861/datastream/PDF_01/view",
-      "tags": ["epigraphy"]
-    },
-    {
-      "title": "Literacy and scribalism in Ancient Israel (1200/1150 – 586 BCE)",
-      "authors": ["Matthieu Richelle"],
-      "date": "Ancient Israel World, ed. K. M. Keimer and G. Pierce (Routledge Worlds; London: Routledge, 2022), 335-347",
-      "link": "https://dial.uclouvain.be/pr/boreal/fr/object/boreal%3A265309/datastream/PDF_01/view",
       "tags": ["epigraphy"]
     },
     {
@@ -113,13 +155,6 @@
       "tags": ["textual criticism"]
     },
     {
-      "title": "When Did Literacy Emerge in Judah ?",
-      "authors": ["Matthieu Richelle"],
-      "date": "Biblical Archaeology Review 46.2 (2020): 58-61",
-      "link": "https://dial.uclouvain.be/pr/boreal/fr/object/boreal%3A244905/datastream/PDF_01/view",
-      "tags": ["epigraphy"]
-    },
-    {
       "title": "Message on a Bottle: The Tell Siran Inscription Revisited",
       "authors": ["Matthieu Richelle"],
       "date": "Hokhmat Sopher : Hommage à Emile Puech, ed. J.-S. Rey and M. Staszak (Etudes bibliques Nouvelle Série 88; Leuven : Peeters, 2021), 253-69",
@@ -127,11 +162,11 @@
       "tags": ["epigraphy"]
     },
     {
-      "title": "Cultural Memory from Israel to Judah",
+      "title": "When Did Literacy Emerge in Judah ?",
       "authors": ["Matthieu Richelle"],
-      "date": "Semitica 61 (2019): 373-97",
-      "link": "https://dial.uclouvain.be/pr/boreal/fr/object/boreal%3A243294/datastream/PDF_01/view",
-    "tags": ["exegesis"]
+      "date": "Biblical Archaeology Review 46.2 (2020): 58-61",
+      "link": "https://dial.uclouvain.be/pr/boreal/fr/object/boreal%3A244905/datastream/PDF_01/view",
+      "tags": ["epigraphy"]
     },
     {
       "title": "Un verset, deux traducteurs, trois scénarios: Retour sur une énigme textuelle (1 Rois 15,13)",
@@ -162,25 +197,18 @@
      "tags": ["hermeneutics"]
     },
     {
-      "title": "The Shapira Strips in Light of Paleography: Six Impossible Things Before Breakfast",
+      "title": "Cultural Memory from Israel to Judah",
       "authors": ["Matthieu Richelle"],
-      "date": "Semitica 63 (2021): 243-94",
-      "link": "https://dial.uclouvain.be/pr/boreal/fr/object/boreal%3A258858/datastream/PDF_01/view",
-      "tags": ["epigraphy"]
+      "date": "Semitica 61 (2019): 373-97",
+      "link": "https://dial.uclouvain.be/pr/boreal/fr/object/boreal%3A243294/datastream/PDF_01/view",
+    "tags": ["exegesis"]
     },
     {
-      "title": "La centralisation du culte au regard des textes et de l’archéologie",
+      "title": "La Sagesse biblique entre convictions et interrogations",
       "authors": ["Matthieu Richelle"],
-      "date": "Temples de la Bible, ed. M. Richelle (Religio; Louvain-la-Neuve : PUL, 2022), 37-54",
-      "link": "https://dial.uclouvain.be/pr/boreal/fr/object/boreal%3A265313/datastream/PDF_01/view",
-      "tags": ["Books of Kings", "history/archaeology"]
-    },
-    {
-      "title": "Was the Tower of Babel Really Left Unfinished? Genesis 11:6 in Light of Hebrew Syntax, the Septuagint, and Jewish Reception",
-      "authors": ["Matthieu Richelle"],
-      "date": "Semitica 63 (2021): 125-39",
-      "link": "https://dial.uclouvain.be/pr/boreal/fr/object/boreal%3A245106/datastream/PDF_01/view",
-      "tags": ["textual criticism","exegesis"]
+      "date": "Foi et Vie 3 (2015): 9-23",
+      "link": "",
+        "tags": ["exegesis"]
     },
     {
       "title": "Le portrait changeant du roi de Tyr (Ézéchiel 28) dans les traditions textuelles anciennes",
@@ -190,11 +218,18 @@
       "tags": ["textual criticism","exegesis"]
     },
     {
-      "title": "Textual Fluidity as a Challenge to Inspiration? A Biblical Scholar’s Point of View",
+      "title": "Comment trouver la structure d’un passage de l’Ancien Testament ?",
       "authors": ["Matthieu Richelle"],
-      "date": "2023",
-      "link": "https://dial.uclouvain.be/pr/boreal/fr/object/boreal%3A266183/datastream/PDF_01/view",
-      "tags": ["textual criticism"]
+      "date": "Théologie Evangélique 12 (2012), p. 101-124 (excerpt from Guide pour l’exégèse de l’Ancien Testament)",
+      "link": "https://flte.fr/wp-content/uploads/2016/08/ThEv2012-3-Comment_trouver_structure_passage_AT.pdf",
+      "tags": ["exegesis"]
+    },
+    {
+      "title": "Une cécité ordinaire: Analyse narrative de 2 Rois 6.8-23",
+      "authors": ["Matthieu Richelle"],
+      "date": "Théologie Evangélique 10 (2011):1-13",
+      "link": "https://flte.fr/wp-content/uploads/2015/09/ThEv_2011-1-Cecite_ordinaire_analyse_narrative_2R6.8-23.pdf",
+          "tags": ["Books of Kings","exegesis"]
     },
     {
       "title": "Élie et Élisée, auriges en Israël. Une métaphore militaire oubliée en 2 R 2,12 et 13,14",
@@ -203,13 +238,13 @@
       "link": "https://etsjets.org/publication/elie-et-elisee-auriges-en-israel-une-metaphore-militaire-oubliee-en-2-r-212-et-1314/",
       "tags": ["textual criticism", "Books of Kings", "exegesis"]
     },
-      {
-      "title": "La structure et l’interprétation d’Osée 11",
+    {
+      "title": "Les conquêtes de Hazaël selon la recension lucianique en 4 Règnes 13,22",
       "authors": ["Matthieu Richelle"],
-      "date": "Positions Luthériennes 56 (2008): 233-42",
-      "link": "",
-      "tags":  ["exegesis"]
-    },
+      "date": "Biblische Notizen 146 (2010): 19-25",
+      "link": ""
+        "tags": ["textual criticism", "Books of Kings", "exegesis"]
+    }
       {
       "title": "Hisban Ostracon A1: New Collation and New Readings",
       "authors": ["Matthieu Richelle", "M. Weigl"],
@@ -225,13 +260,6 @@
         "tags": ["history/archaeology"]
     },
     {
-      "title": "Une cécité ordinaire: Analyse narrative de 2 Rois 6.8-23",
-      "authors": ["Matthieu Richelle"],
-      "date": "Théologie Evangélique 10 (2011):1-13",
-      "link": "https://flte.fr/wp-content/uploads/2015/09/ThEv_2011-1-Cecite_ordinaire_analyse_narrative_2R6.8-23.pdf",
-          "tags": ["Books of Kings","exegesis"]
-    },
-    {
       "title": "L’épigraphie nord-ouest sémitique et son intérêt pour l’étude de l’Ancien Testament",
       "authors": ["Matthieu Richelle"],
       "date": "Théologie Evangélique7/2 (2008): 135-72",
@@ -239,38 +267,11 @@
       "tags": ["epigraphy"]
     },
     {
-      "title": "Comment trouver la structure d’un passage de l’Ancien Testament ?",
+      "title": "La structure et l’interprétation d’Osée 11",
       "authors": ["Matthieu Richelle"],
-      "date": "Théologie Evangélique 12 (2012), p. 101-124 (excerpt from Guide pour l’exégèse de l’Ancien Testament)",
-      "link": "https://flte.fr/wp-content/uploads/2016/08/ThEv2012-3-Comment_trouver_structure_passage_AT.pdf",
-      "tags": ["exegesis"]
-    },
-    {
-      "title": "La Sagesse biblique entre convictions et interrogations",
-      "authors": ["Matthieu Richelle"],
-      "date": "Foi et Vie 3 (2015): 9-23",
+      "date": "Positions Luthériennes 56 (2008): 233-42",
       "link": "",
-        "tags": ["exegesis"]
+      "tags":  ["exegesis"]
     },
-    {
-      "title": "A Very Brief History of the Old Hebrew Script",
-      "authors": ["Matthieu Richelle"],
-      "date": "Biblical Archaeology Review 47/2 (2021): 48-55",
-      "link": "",
-      "tags": ["epigraphy"]
-    },
-    {
-      "title": "Set in Stone? Another Look at the Mesha Stele",
-      "authors": ["Matthieu Richelle", "A. Burlingame"],
-      "date": "Biblical Archaeology Review 49/1 (2023): 54-57",
-      "link": "https://library.biblicalarchaeology.org/article/set-in-stone-another-look-at-the-mesha-stele/",
-      "tags": ["epigraphy"]
-    },
-    {
-      "title": "Les conquêtes de Hazaël selon la recension lucianique en 4 Règnes 13,22",
-      "authors": ["Matthieu Richelle"],
-      "date": "Biblische Notizen 146 (2010): 19-25",
-      "link": ""
-    }
   ]
   
