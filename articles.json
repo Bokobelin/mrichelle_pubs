@@ -50,6 +50,13 @@
        "tags": ["epigraphy"]
     },
     {
+      "title": "The Dead Sea Scrolls’ Paleo-Hebrew Script: Its Roots in Hebrew Scribal Tradition",
+      "authors": ["Antony Perrot and Matthieu Richelle"],
+      "date": "Hebrew Bible Manuscripts: A Millenium, ed. E. Attia et A. Perrot (Textual History of the Bible Supplements 6; Leiden: Brill, 2022), 1-74",
+      "link": "http://www.paleohebrewdss.com/database/paper/",
+       "tags": ["epigraphy"]
+    },
+    {
       "title": "Cult Centralization in the Books of Kings",
       "authors": ["Matthieu Richelle"],
       "date": "in S.L. McKenzie and M. Richelle (eds.), The Oxford Handbook of the Books of Kings (New York: OUP, 2024), 311-325",
@@ -89,6 +96,20 @@
       "authors": ["Matthieu Richelle"],
       "date": "La formation des canons bibliques (A voix haute. Conférences de l’IPT ; Lyon : Olivétan, 2021), 49-77",
       "link": "https://dial.uclouvain.be/pr/boreal/fr/object/boreal%3A258863/datastream/PDF_01/view",
+      "tags": ["textual criticism"]
+    },
+    {
+      "title": "Le conflit entre Israel et Mésha selon 2 Rois 3",
+      "authors": ["Matthieu Richelle"],
+      "date": "Nouvelles recherches autour de la stèle de Mésha, ed H. Niehr and Th. Römer (Abhandlungen des Deutschen Palästina-Vereins 51 ; Wiesbaden : Harrassowitz, 2021), 237-59",
+      "link": "",
+      "tags": ["Books of Kings","exegesis"]
+    },
+    {
+      "title": "Jeremiah and Baruch",
+      "authors": ["Matthieu Richelle"],
+      "date": "The Oxford Handbook of the Septuagint, ed. A. Salvesen and T. M. Law (Oxford: Oxford University Press, 2021), 259-284",
+      "link": "",
       "tags": ["textual criticism"]
     },
     {
