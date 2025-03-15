@@ -3,7 +3,8 @@
     "title": "Ernest Renan, Antisemitism, and Scholarly Practices",
     "authors": ["Matthieu Richelle"],
     "date": "Hebrew Bible and Ancient Israel 14 (2025): 98-117",
-    "link": "https://www.mohrsiebeck.com/en/article/ernest-renan-antisemitism-and-scholarly-practices-101628hebai-2025-0008/"
+    "link": "https://www.mohrsiebeck.com/en/article/ernest-renan-antisemitism-and-scholarly-practices-101628hebai-2025-0008/",
+    "tags": ["epistemology"]
 
   },
   {
@@ -25,7 +26,7 @@
     "authors": ["Matthieu Richelle"],
     "date": "Revue Biblique 130 (2023): 356-377",
     "link": "https://dial.uclouvain.be/pr/boreal/fr/object/boreal%3A243565/datastream/PDF_01/view",
-    "tags": ["textual criticism", "Books of Kings"]
+    "tags": ["textual criticism", "Books of Kings","exegesis"]
   },
    {
     "title": "Old and New Readings in the Samaria Ostraca",
@@ -94,21 +95,22 @@
     "title": "Cultural Memory from Israel to Judah",
     "authors": ["Matthieu Richelle"],
     "date": "Semitica 61 (2019): 373-97",
-    "link": "https://dial.uclouvain.be/pr/boreal/fr/object/boreal%3A243294/datastream/PDF_01/view"
+    "link": "https://dial.uclouvain.be/pr/boreal/fr/object/boreal%3A243294/datastream/PDF_01/view",
+  ["exegesis"]
   },
   {
     "title": "Towards a Variegated Approach to Textual Fluidity: Limited Variations, Deliberate Duplication and Creative Scribal Mistake in 2 Kings 10:15-31",
     "authors": ["Matthieu Richelle"],
     "date": "Henoch 42/2 (2020): 92-114",
     "link": "https://dial.uclouvain.be/pr/boreal/fr/object/boreal%3A243296/datastream/PDF_01/view",
-   "tags": ["textual criticism", "Books of Kings"]
+   "tags": ["textual criticism", "Books of Kings","exegesis"]
   },
   {
     "title": "Did Solomon ‘Overlay the Whole Temple with Gold’? A New Look at 1 Kings 6:20-22 (MT and LXX)",
     "authors": ["Matthieu Richelle"],
     "date": "Semitica 62 (2020): 93-110",
     "link": "https://dial.uclouvain.be/pr/boreal/fr/object/boreal%3A243295/datastream/PDF_01/view",
-    "tags": ["textual criticism", "Books of Kings"]
+    "tags": ["textual criticism", "Books of Kings","exegesis"]
   },
   {
     "title": "The Shapira Strips in Light of Paleography: Six Impossible Things Before Breakfast",
@@ -129,14 +131,14 @@
     "authors": ["Matthieu Richelle"],
     "date": "Semitica 63 (2021): 125-39",
     "link": "https://dial.uclouvain.be/pr/boreal/fr/object/boreal%3A245106/datastream/PDF_01/view",
-    "tags": ["textual criticism"]
+    "tags": ["textual criticism","exegesis"]
   },
   {
     "title": "Le portrait changeant du roi de Tyr (Ézéchiel 28) dans les traditions textuelles anciennes",
     "authors": ["Matthieu Richelle"],
     "date": "Phéniciens d'Orient et d'Occident: Mélanges Josette Elayi, ed. A. Lemaire (CIPOA 2; Paris: Maisonneuve, 2014), 113-25",
     "link": "https://dial.uclouvain.be/pr/boreal/fr/object/boreal%3A265346/datastream/PDF_01/view",
-    "tags": ["textual criticism"]
+    "tags": ["textual criticism","exegesis"]
   },
   {
     "title": "Textual Fluidity as a Challenge to Inspiration? A Biblical Scholar’s Point of View",
@@ -150,13 +152,14 @@
     "authors": ["Matthieu Richelle"],
     "date": "Revue Biblique 117/3 (2010): 321-36",
     "link": "https://etsjets.org/publication/elie-et-elisee-auriges-en-israel-une-metaphore-militaire-oubliee-en-2-r-212-et-1314/",
-    "tags": ["textual criticism", "Books of Kings"]
+    "tags": ["textual criticism", "Books of Kings", "exegesis"]
   },
     {
     "title": "La structure et l’interprétation d’Osée 11",
     "authors": ["Matthieu Richelle"],
     "date": "Positions Luthériennes 56 (2008): 233-42",
-    "link": ""
+    "link": "",
+    "tags":  ["exegesis"]
   },
     {
     "title": "Hisban Ostracon A1: New Collation and New Readings",
@@ -177,7 +180,7 @@
     "authors": ["Matthieu Richelle"],
     "date": "Théologie Evangélique 10 (2011):1-13",
     "link": "https://flte.fr/wp-content/uploads/2015/09/ThEv_2011-1-Cecite_ordinaire_analyse_narrative_2R6.8-23.pdf",
-        "tags": ["Books of Kings"]
+        "tags": ["Books of Kings","exegesis"]
   },
   {
     "title": "L’épigraphie nord-ouest sémitique et son intérêt pour l’étude de l’Ancien Testament",
@@ -190,13 +193,15 @@
     "title": "Comment trouver la structure d’un passage de l’Ancien Testament ?",
     "authors": ["Matthieu Richelle"],
     "date": "Théologie Evangélique 12 (2012), p. 101-124 (excerpt from Guide pour l’exégèse de l’Ancien Testament)",
-    "link": "https://flte.fr/wp-content/uploads/2016/08/ThEv2012-3-Comment_trouver_structure_passage_AT.pdf"
+    "link": "https://flte.fr/wp-content/uploads/2016/08/ThEv2012-3-Comment_trouver_structure_passage_AT.pdf",
+    "tags": ["exegesis"]
   },
   {
     "title": "La Sagesse biblique entre convictions et interrogations",
     "authors": ["Matthieu Richelle"],
     "date": "Foi et Vie 3 (2015): 9-23",
-    "link": ""
+    "link": "",
+      "tags": ["exegesis"]
   },
   {
     "title": "A Very Brief History of the Old Hebrew Script",
