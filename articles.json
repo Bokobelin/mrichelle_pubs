@@ -190,18 +190,25 @@
       "tags": ["textual criticism", "Books of Kings","exegesis"]
     },
     {
-      "title": "Les défis que posent les textes bibliques aux protestants parlant des juifs",
-      "authors": ["Matthieu Richelle"],
-      "date": "Parler de l’autre: Regards croisés juifs et protestants: Actes du colloque tenu à Paris le 22 mars 2018 (Lyon : Olivétan, 2020), 20-35",
-      "link": "",
-    "tags": ["hermeneutics"]
-    },
-    {
       "title": "Cultural Memory from Israel to Judah",
       "authors": ["Matthieu Richelle"],
       "date": "Semitica 61 (2019): 373-97",
       "link": "https://dial.uclouvain.be/pr/boreal/fr/object/boreal%3A243294/datastream/PDF_01/view",
     "tags": ["exegesis"]
+    },
+     {
+      "title": "Ideological Biases in the Greek Minor Prophets: A Reassessment Based on the Books of Amos and Zechariah",
+      "authors": ["Matthieu Richelle"],
+      "date": "Les Douze Prophètes dans la LXX: Protocoles et procédures dans la traduction grecque: stylistique, poétique et histoire, ed. C. Dogniez and P. Lemoigne (Vetus Testamentum Supplements 180 ; Leiden : Brill, 2019), 188-208",
+      "link": "",
+    "tags": ["textual criticism"]
+    },
+     {
+      "title": "Les défis que posent les textes bibliques aux protestants parlant des juifs",
+      "authors": ["Matthieu Richelle"],
+      "date": "Parler de l’autre: Regards croisés juifs et protestants: Actes du colloque tenu à Paris le 22 mars 2018 (Lyon : Olivétan, 2020), 20-35",
+      "link": "",
+    "tags": ["hermeneutics"]
     },
     {
       "title": "La Sagesse biblique entre convictions et interrogations",
