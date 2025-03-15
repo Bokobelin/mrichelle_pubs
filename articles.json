@@ -196,6 +196,27 @@
       "link": "https://dial.uclouvain.be/pr/boreal/fr/object/boreal%3A243295/datastream/PDF_01/view",
       "tags": ["textual criticism", "Books of Kings","exegesis"]
     },
+     {
+      "title": "1207. Une entrée dramatique dans l’histoire : la stèle de Mérenptah",
+      "authors": ["Matthieu Richelle"],
+      "date": "Histoire des Juifs: Un voyage en 77 dates, de l’Antiquité à nos jours, ed. P. Savy, with K. Berthelot et A. Kichelewsky (Paris: PUF, 2020), 13-18",
+      "link": "",
+    "tags": ["history/archaeology"]
+    },
+     {
+      "title": "1000. Que savons-nous de David?",
+      "authors": ["Matthieu Richelle"],
+      "date": "Histoire des Juifs: Un voyage en 77 dates, de l’Antiquité à nos jours, ed. P. Savy, with K. Berthelot et A. Kichelewsky (Paris: PUF, 2020), 19-24",
+      "link": "",
+    "tags": ["history/archaeology"]
+    },
+    {
+      "title": "587. La chute du royaume de Juda",
+      "authors": ["Matthieu Richelle"],
+      "date": "Histoire des Juifs: Un voyage en 77 dates, de l’Antiquité à nos jours, ed. P. Savy, with K. Berthelot et A. Kichelewsky (Paris: PUF, 2020), 31-36",
+      "link": "",
+    "tags": ["history/archaeology"]
+    },
     {
       "title": "Les défis que posent les textes bibliques aux protestants parlant des juifs",
       "authors": ["Matthieu Richelle"],
@@ -293,6 +314,34 @@
       "date": "EBR 16 (2018), col. 103, 954-956",
       "link": "",
         "tags": ["exegesis"]
+    },
+    {
+      "title": "Le contexte de la découverte",
+      "authors": ["Matthieu Richelle"],
+      "date": "Mésha et la Bible: Quand une pierre raconte l’histoire (Paris: Collège de France, 2018), 14-17",
+      "link": "",
+        "tags": ["epigraphy"]
+    },
+     {
+      "title": "La ‘reine des inscriptions sémitiques’",
+      "authors": ["Matthieu Richelle"],
+      "date": "Mésha et la Bible: Quand une pierre raconte l’histoire (Paris: Collège de France, 2018), 68-71",
+      "link": "",
+        "tags": ["epigraphy"]
+    },
+    {
+      "title": "Une famille d’alphabets",
+      "authors": ["Matthieu Richelle"],
+      "date": "Mésha et la Bible: Quand une pierre raconte l’histoire (Paris: Collège de France, 2018), 72-77",
+      "link": "",
+        "tags": ["epigraphy"]
+    },
+    {
+      "title": "Les écritures des royaumes de Moab et d’Israël",
+      "authors": ["Matthieu Richelle"],
+      "date": "Mésha et la Bible: Quand une pierre raconte l’histoire (Paris: Collège de France, 2018), 78-81",
+      "link": "",
+        "tags": ["epigraphy"]
     },
     {
       "title": "La guerre du Néguev a-t-elle eu lieu? Essai de réévaluation historique des relations conflictuelles entre Juda et Edom aux VIIe et VIe s. avant n. è.",
