@@ -252,6 +252,20 @@
       "link": "",
         "tags": ["textual criticism","history/archaeology"]
     },
+     {
+      "title": "Elusive Scrolls: Could Any Hebrew Literature Be Written Prior to the Eighth Century B.C.E.?",
+      "authors": ["Matthieu Richelle"],
+      "date": "Vetus Testamentum 66 (2016): 556-94",
+      "link": "",
+        "tags": ["epigraphy"]
+    },
+     {
+      "title": "Intentional Omissions in the Textual History of the Books of Kings: In Search of Methodological Criteria",
+      "authors": ["Matthieu Richelle"],
+      "date": "Semitica 58 (2016): 135-157",
+      "link": "",
+        "tags": ["textual criticism", "Books of Kings"]
+    },
     {
       "title": "La Sagesse biblique entre convictions et interrogations",
       "authors": ["Matthieu Richelle"],
@@ -274,11 +288,32 @@
       "tags": ["hermeneutics"]
     },
     {
+      "title": "La structure littéraire du livre d'Abdias",
+      "authors": ["Matthieu Richelle"],
+      "date": "Biblische Notizen 169 (2016): 27-45",
+      "link": "",
+      "tags": ["exegesis", "literary structure"]
+    },
+    {
       "title": "Revisiting 2 Kings 13.14-21 (MT and LXX): The Transposition of a Pericope and Multiple Literary Editions in 2 Kings",
       "authors": ["Matthieu Richelle"],
       "date": "Making the Biblical Text Textual Studies in the Hebrew and the Greek Bible, ed. I. Himbaza (OBO 275; Fribourg/Göttingen: Academic Press/Vandenhoeck & Ruprecht, 2015), 62-81",
       "link": "",
       "tags": ["textual criticism","Books of Kings"]
+    },
+    {
+      "title": "Quelques nouvelles lectures sur l'ostracon de Khirbet Qeiyafa",
+      "authors": ["Matthieu Richelle"],
+      "date": "Semitica 57 (2015): 147-62",
+      "link": "",
+      "tags": ["epigraphy"]
+    },
+    {
+      "title": "Jeux de miroir et contrastes dans le livre de Joël",
+      "authors": ["Matthieu Richelle"],
+      "date": "Revue Biblique 122 (2015): 173-193",
+      "link": "",
+      "tags": ["exegesis","literary structure"]
     },
     {
       "title": "Littérature juive canonique et extra-canonique dans la Gloire des Rois (Kebra Nagast)",
@@ -293,6 +328,20 @@
       "date": "Redécouvrir les Psaumes (Vaux-sur-Seine/Charols : Edifac/Excelsis, 2015), 243-259",
       "link": "",
       "tags": ["exegesis"]
+    },
+    {
+      "title": "Structure et interprétation en Osée 4",
+      "authors": ["Matthieu Richelle"],
+      "date": "Revue Biblique 121 (2014): 5-20",
+      "link": "",
+      "tags": ["exegesis", "literary structure"]
+    },
+     {
+      "title": "Comment le prédécesseur d'Hazaël est-il mort ? Une nouvelle lecture de 2 Rois 8.10-11",
+      "authors": ["Matthieu Richelle"],
+      "date": "Transeuphratène 46 (2014): 11-23",
+      "link": "",
+      "tags": ["Books of Kings","exegesis"]
     },
      {
       "title": "L’origine de l’humanité selon le début de la Genèse",
@@ -334,14 +383,14 @@
       "authors": ["Matthieu Richelle"],
       "date": "Vetus Testamentum 62 (2012): 232-47",
       "link": "",
-      "tags": ["exegesis"]
+      "tags": ["exegesis", "literary structure"]
     },
     {
       "title": "Comment trouver la structure d’un passage de l’Ancien Testament?",
       "authors": ["Matthieu Richelle"],
       "date": "Théologie Evangélique 12 (2012), p. 101-124 (excerpt from Guide pour l’exégèse de l’Ancien Testament)",
       "link": "https://flte.fr/wp-content/uploads/2016/08/ThEv2012-3-Comment_trouver_structure_passage_AT.pdf",
-      "tags": ["exegesis"]
+      "tags": ["exegesis", "literary structure"]
     },
     {
       "title": "L’affluence des nations à Jérusalem en vue du salut",
@@ -362,7 +411,7 @@
       "authors": ["Matthieu Richelle"],
       "date": "Biblische Notizen 151 (2011): 3-22",
       "link": "",
-          "tags": ["exegesis"]
+          "tags": ["exegesis", "literary structure"]
     },
     {
       "title": "Une cécité ordinaire: Analyse narrative de 2 Rois 6.8-23",
@@ -418,6 +467,6 @@
       "authors": ["Matthieu Richelle"],
       "date": "Positions Luthériennes 56 (2008): 233-42",
       "link": "",
-      "tags":  ["exegesis"]
+      "tags":  ["exegesis", "literary structure"]
     }
   ]
