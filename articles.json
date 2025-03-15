@@ -39,7 +39,7 @@
     "authors": ["Matthieu Richelle"],
     "date": "in S.L. McKenzie and M. Richelle (eds.), The Oxford Handbook of the Books of Kings (New York: OUP, 2024), 311-325",
     "link": "https://www.academia.edu/121677547/_Cult_Centralization_in_the_Books_of_Kings_in_S_L_McKenzie_and_M_Richelle_eds_The_Oxford_Handbook_of_the_Books_of_Kings_New_York_OUP_2024_311_325",
-    "tags": ["textual criticism", "Books of Kings"]
+    "tags": ["textual criticism", "Books of Kings", "history/archaeology"]
   },
   {
     "title": "Ostraca II: Ancient Near East and Hebrew Bible / Old Testament",
@@ -121,7 +121,8 @@
     "title": "“La centralisation du culte au regard des textes et de l’archéologie,” in Temples de la Bible, ed. M. Richelle (Religio ; Louvain-la-Neuve : PUL, 2022), 37-54",
     "authors": ["Matthieu Richelle"],
     "date": "2022",
-    "link": "https://dial.uclouvain.be/pr/boreal/fr/object/boreal%3A265313/datastream/PDF_01/view"
+    "link": "https://dial.uclouvain.be/pr/boreal/fr/object/boreal%3A265313/datastream/PDF_01/view",
+    "tags": ["Books of Kings", "history/archaeology"]
   },
   {
     "title": " “Was the Tower of Babel Really Left Unfinished? Genesis 11:6 in Light of Hebrew Syntax, the Septuagint, and Jewish Reception,” Semitica 63 (2021): 125-39",
@@ -168,7 +169,8 @@
     "title": "“Comment la ‘chronologie basse’ d’Israel Finkelstein est-elle reçue parmi les archéologues ?”",
     "authors": ["Matthieu Richelle"],
     "date": "Hokhma 96 (2009): 37-56",
-    "link": ""
+    "link": "",
+      "tags": ["history/archaeology"]
   },
   {
     "title": "“Une cécité ordinaire: Analyse narrative de 2 Rois 6.8-23”",
