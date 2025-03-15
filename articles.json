@@ -148,7 +148,8 @@
     "title": "“Élie et Élisée, auriges en Israël. Une métaphore militaire oubliée en 2 R 2,12 et 13,14”",
     "authors": ["Matthieu Richelle"],
     "date": "Revue Biblique 117/3 (2010): 321-36",
-    "link": "https://etsjets.org/publication/elie-et-elisee-auriges-en-israel-une-metaphore-militaire-oubliee-en-2-r-212-et-1314/"
+    "link": "https://etsjets.org/publication/elie-et-elisee-auriges-en-israel-une-metaphore-militaire-oubliee-en-2-r-212-et-1314/",
+    "tags": ["textual criticism", "Books of Kings"]
   },
     {
     "title": "“La structure et l’interprétation d’Osée 11”",
@@ -160,7 +161,8 @@
     "title": "“Hisban Ostracon A1: New Collation and New Readings”",
     "authors": ["Matthieu Richelle", "M. Weigl"],
     "date": "Annual of the Department of Antiquities of Jordan 53 (2009): 127-38",
-    "link": "https://www.academia.edu/415263/_Hisban_Ostracon_A1_New_Collation_and_New_Readings_Annual_of_the_Department_of_Antiquities_of_Jordan_53_2009_127_38"
+    "link": "https://www.academia.edu/415263/_Hisban_Ostracon_A1_New_Collation_and_New_Readings_Annual_of_the_Department_of_Antiquities_of_Jordan_53_2009_127_38",
+      "tags": ["epigraphy"]
   },
   {
     "title": "“Comment la ‘chronologie basse’ d’Israel Finkelstein est-elle reçue parmi les archéologues ?”",
@@ -172,13 +174,15 @@
     "title": "“Une cécité ordinaire: Analyse narrative de 2 Rois 6.8-23”",
     "authors": ["Matthieu Richelle"],
     "date": "Théologie Evangélique 10 (2011):1-13",
-    "link": "https://flte.fr/wp-content/uploads/2015/09/ThEv_2011-1-Cecite_ordinaire_analyse_narrative_2R6.8-23.pdf"
+    "link": "https://flte.fr/wp-content/uploads/2015/09/ThEv_2011-1-Cecite_ordinaire_analyse_narrative_2R6.8-23.pdf",
+        "tags": ["Books of Kings"]
   },
   {
     "title": "“L’épigraphie nord-ouest sémitique et son intérêt pour l’étude de l’Ancien Testament,”",
     "authors": ["Matthieu Richelle"],
     "date": "Théologie Evangélique7/2 (2008): 135-72",
-    "link": ""
+    "link": "",
+    "tags": ["epigraphy"]
   },
   {
     "title": "“Comment trouver la structure d’un passage de l’Ancien Testament ?”",
@@ -196,12 +200,14 @@
     "title": "“A Very Brief History of the Old Hebrew Script”",
     "authors": ["Matthieu Richelle"],
     "date": "Biblical Archaeology Review 47/2 (2021): 48-55",
-    "link": ""
+    "link": "",
+    "tags": ["epigraphy"]
   },
   {
     "title": "“Set in Stone? Another Look at the Mesha Stele”",
     "authors": ["Matthieu Richelle", "A. Burlingame"],
     "date": "Biblical Archaeology Review 49/1 (2023): 54-57",
-    "link": "https://library.biblicalarchaeology.org/article/set-in-stone-another-look-at-the-mesha-stele/"
+    "link": "https://library.biblicalarchaeology.org/article/set-in-stone-another-look-at-the-mesha-stele/",
+    "tags": ["epigraphy"]
   }
 ]
